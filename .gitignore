@@ -1,0 +1,10 @@
+# .gitignore
+.env
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+crew/
+*.egg-info/
+dist/
+build/
